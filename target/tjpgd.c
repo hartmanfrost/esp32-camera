@@ -18,7 +18,7 @@
 / Sep 03,'12 R0.01b Added JD_TBLCLIP option.
 /----------------------------------------------------------------------------*/
 
-#include "tjpgd.h"
+#include "jpeg_include/tjpgd.h"
 
 #define SUPPORT_JPEG 1
 
